@@ -17,7 +17,7 @@ main {
     margin-right: auto;
 }
 
-section {
+.section {
     margin-top: 24px 0;
     margin-bottom: 24px;
     padding: 16px;
@@ -30,6 +30,9 @@ section {
 
 .d-inline {
     display: inline;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right:5px;
 }
 
 nav > ul {
